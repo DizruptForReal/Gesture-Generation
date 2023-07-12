@@ -10,4 +10,7 @@ RecorderPy:
   Noise reduction applied to remove background and white noise
   Generate a command with the given audio sample and the motion capture file
 
+Link to folder containing sample outputs: (https://drive.google.com/drive/folders/1mUO8o53v_g_P_f9gVf_ZL7BsND3Dijy8?usp=sharing)
+Link to video Demo: (https://drive.google.com/file/d/12Vm0ItBcsCewfZqgUqOZ6GXK4PlFFbTz/view?usp=sharing) 
+
 
